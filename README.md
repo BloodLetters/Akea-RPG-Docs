@@ -1,1 +1,1 @@
-Please head to https://comuns-rpgmaker.github.io/Akea/ to check out the documentation on this battle system.
+Official English WIKI: https://comuns-rpgmaker.github.io/Akea/
